@@ -3,7 +3,7 @@
 // @namespace    https://github.com/SysAdminDoc/Userscript-Dev-Toolkit
 // @version      4.7.0
 // @description  An advanced floating GUI with debugging, inspection, and development tools for userscript and extension authors.
-// @author       SysAdminDoc & Gemini
+// @author       Matthew Parker
 // @match        *://*/*
 // @grant        GM_getValue
 // @grant        GM_setValue
@@ -16,8 +16,8 @@
 // @grant        GM_listValues
 // @run-at       document-idle
 // @license      MIT
-// @updateURL    https://raw.githubusercontent.com/SysAdminDoc/Userscript-Dev-Toolkit/main/dist/Userscript-Dev-Toolkit.user.js
-// @downloadURL  https://raw.githubusercontent.com/SysAdminDoc/Userscript-Dev-Toolkit/main/dist/Userscript-Dev-Toolkit.user.js
+// @updateURL    https://github.com/SysAdminDoc/Userscript-Dev-Toolkit/blob/main/Userscript%20Dev%20Toolkit.user.js
+// @downloadURL  https://github.com/SysAdminDoc/Userscript-Dev-Toolkit/blob/main/Userscript%20Dev%20Toolkit.user.js
 // ==/UserScript==
 
 (function() {
