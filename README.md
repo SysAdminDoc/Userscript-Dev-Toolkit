@@ -120,7 +120,7 @@ You must have a userscript manager browser extension installed. Recommended opti
 ### Step-by-step instructions
 
 1.  **Click to Install:** Click the following link to install the script directly.
-      * [**Install Userscript Dev Toolkit**](https://www.google.com/search?q=https://raw.githubusercontent.com/SysAdminDoc/Userscript-Dev-Toolkit/main/Userscript%2520Dev%2520Toolkit.user.js)
+      * [**Install Userscript Dev Toolkit**](https://github.com/SysAdminDoc/Userscript-Dev-Toolkit/raw/refs/heads/main/Userscript%20Dev%20Toolkit.user.js)
 2.  **Confirm Installation:** Your userscript manager will automatically detect the script and prompt you to confirm the installation.
 3.  **Done\!** The script is now installed and will run on all websites.
 
